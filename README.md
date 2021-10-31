@@ -1,6 +1,11 @@
 # Zen monitor
 Zen monitor is monitoring software for AMD Zen-based CPUs.
 
+Fork from https://github.com/ocerman/zenmonitor
+Fix not patched issue: https://github.com/ocerman/zenmonitor/issues/36
+
+Still issues with 5600G.
+
 It can monitor these values:
  - CPU Temperature
  - CPU Core (SVI2) Voltage, Current and Power
